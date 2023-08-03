@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rjs-asm-02/static/css/main.ace0e0fc.css",
+    "main.js": "/rjs-asm-02/static/js/main.d965476d.js",
+    "index.html": "/rjs-asm-02/index.html",
+    "main.ace0e0fc.css.map": "/rjs-asm-02/static/css/main.ace0e0fc.css.map",
+    "main.d965476d.js.map": "/rjs-asm-02/static/js/main.d965476d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ace0e0fc.css",
+    "static/js/main.d965476d.js"
+  ]
+}
